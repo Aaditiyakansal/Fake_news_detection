@@ -27,6 +27,4 @@ The model achieved an accuracy of approximately 92% on the training data and 91%
 
 Contributions to this project are welcome. Please feel free to submit pull requests or open issues.
 
-## License
 
-This project is licensed under the MIT License.
